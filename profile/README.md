@@ -1,4 +1,4 @@
-This is a result from the research project Asset Administration Shell for the Wiring Harness (VWS4LS) funded by the German Federal Ministry of Education and Research.
+This repository hosts the results from the research project Asset Administration Shell for the Wiring Harness (VWS4LS), funded by the German Federal Ministry of Education and Research.
 
 ![image](https://github.com/user-attachments/assets/5af587f1-70ea-4852-8fba-e0884b340efd)
 
