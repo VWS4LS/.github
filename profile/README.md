@@ -1,11 +1,11 @@
-This repository hosts the results from the research project Asset Administration Shell for the Wiring Harness (VWS4LS), funded by the German Federal Ministry of Education and Research.
+This repository hosts results from the research project [Asset Administration Shell for the Wiring Harness](https://arena2036.de/en/asset-administration-shell-for-wire-harness) (*VWS4LS*), funded by the German Federal Ministry of Education and Research.
 
 ![image](https://github.com/user-attachments/assets/5af587f1-70ea-4852-8fba-e0884b340efd)
 
 A detailed description of the results of the various subprojects can be found here ([German only](https://arena2036.de/de/vws4ls)).
 
-# Projekt goal
-The aim of the project “Administration shell for the wiring harness” (VWS4LS) is the implementation of the administration shell (VWS) for the development, production and assembly of the wiring harness in the automobile. The VWS is a standardized digital twin for the unambiguous representation of any object. The Federal Ministry for Economic Affairs and Energy is funding this project as part of the 35c economic stimulus package.
+## Projekt goal
+The aim of the project “Administration shell for the wiring harness” (VWS4LS) is the utilization of the administration shell (VWS) technology for the development, production and assembly of the wiring harness in the automobile. The VWS is a standardized digital twin for the unambiguous representation of any object. The Federal Ministry for Economic Affairs and Energy is funding this project as part of the 35c economic stimulus package.
 
 ## Challenge: Digital consistency of the value chain for the wiring harness
 One specific use case for the digital transformation of the automotive and vehicle industry is the wire harness, commonly known as the cable harness. In a way, it is the nervous system of the vehicle, connecting everything together and transmitting all signals. In automotive development and production, the wire harness is one of the most complex and expensive individual components of the vehicle.
