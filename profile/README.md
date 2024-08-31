@@ -2,7 +2,7 @@ This repository hosts results from the research project [Asset Administration Sh
 
 ![image](https://github.com/user-attachments/assets/5af587f1-70ea-4852-8fba-e0884b340efd)
 
-A detailed description of the results of the various subprojects can be found here ([German only](https://arena2036.de/de/vws4ls)).
+A detailed description of the results of the various subprojects can be found here ([German only](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/README.md)).
 
 ## Projekt goal
 The aim of the project “Administration shell for the wiring harness” (VWS4LS) is the utilization of the administration shell (VWS) technology for the development, production and assembly of the wiring harness in the automobile. The VWS is a standardized digital twin for the unambiguous representation of any object. The Federal Ministry for Economic Affairs and Energy is funding this project as part of the 35c economic stimulus package.
