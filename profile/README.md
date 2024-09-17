@@ -25,21 +25,21 @@ Die Projektlaufzeit wurde von Dezember 2021 bis Dezember 2024 angesetzt, mit den
 
 ![image](https://github.com/user-attachments/assets/e5ec3a97-2130-4a49-a64d-dbc4d49ad079)
 
-\- Coroplast Fritz Müller GmbH \[&\] Co. KG
+\- [Coroplast Fritz Müller GmbH & Co. KG](https://www.coroplast-group.com/de/wewire/)
 
-\- DilT GmbH (Komax Holding AG)
+\- [DilT GmbH (Komax Holding AG](https://www.komaxgroup.com/de/products/harness-manufacturing))
 
-\- Lisa Dräxlmaier GmbH
+\- [Lisa Dräxlmaier GmbH](https://www.draexlmaier.com/produkte/electrical-systems)
 
-\- Festo SE \[&\] Co. KG
+\- [Festo SE & Co. KG](https://www.festo.com/de/de/)
 
-\- TSK Prüfsysteme GmbH (Komax Holding AG)
+\- [TSK Prüfsysteme GmbH (Komax Holding AG)](https://www.komaxgroup.com/de/products/quality-tools)
 
-\- Kostal Kontaktsysteme GmbH
+\- [Kostal Kontaktsysteme GmbH](https://www.kostal-kontakt-systeme.com/de-de/)
 
-\- Kromberg \[&\] Schubert Automotiv GmbH \[&\] Co. KG
+\- [Kromberg & Schubert Automotiv GmbH Co. KG](https://www.kromberg-schubert.de/loesungen/bordnetze)
 
-\- Wezag GmbH \[&\] Co. KG
+\- [Wezag GmbH & Co. KG](https://www.wezag.de/wdt-crimpen-machinen/)
 
 Die Mercedes-Benz AG und Siemens AG als assoziierte Partner engagieren sich aus der Innovationsinitiative Leitungssatz heraus als OEM sowie Hersteller digitaler Tools.
 
