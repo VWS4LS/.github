@@ -220,15 +220,13 @@ _Abbildung [Catena-X Lösungsportfolio (Quelle: https://catena-x.net/de/offers)]
 [Detaildokumentation TP8](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP08/)
 
 ## <a name="TP09"></a>Demonstrator zur Pilotierung und Erprobung
-Das [TP9 "Pilotierung, Erprobung, Demonstrator"](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP09/) fokussierte sich der Konzeptionierung und Umsetzung eines Demonstrators in mehreren Ausbaustufen über die gesamte Projektlaufzeit hinweg. Der Demonstrator enthält dabei sowohl physische als auch digitale Anteile.
+Das [TP9 "Pilotierung, Erprobung, Demonstrator"](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP09/) fokussierte sich der Konzeptionierung und Umsetzung eines Demonstrators in mehreren Ausbaustufen über die gesamte Projektlaufzeit hinweg. Der Demonstrator enthält dabei sowohl physische als auch digitale Anteile. Insgesamt wurden 4 Demonstratorprojekte durchgeführt, wobei sich der physische Aufbau des Demonstrators seit Fertigstellung von Stufe 2 kaum mehr veränderte. Der Hauptteil der Veränderung erfolge dann vor allem [softwareseitig](https://tractus-x-07.arena2036.de/). 
 
 ![image](https://github.com/user-attachments/assets/3554dfbe-2a88-4e16-93d3-a2b2b72cbfab)   
 _Abbildung [Übersicht Demonstrator]_
 
 ![image](https://github.com/user-attachments/assets/39ced957-a605-44ef-9e7a-e7e075cb2746)   
 _Abbildung [IT-Architektur des Demonstrators]_
-
-[tractus-x-07.arena2036.de](https://tractus-x-07.arena2036.de/)
 
 [Detaildokumentation TP9](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP09/)
 
