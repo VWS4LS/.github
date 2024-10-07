@@ -150,6 +150,8 @@ Als ein wesentliches Ergebnis wurde die in TP1 definierte neue OPC UA Companion 
 ![image](https://github.com/user-attachments/assets/e00c0a19-3466-4ceb-b2f5-643e6d9a2b88)
 
 [Produktionsprozesse]
+![image](https://github.com/user-attachments/assets/51536b0e-cfeb-48b0-9462-b91f82458245)
+
 
 \[Links zur Detaildokumentation\]
 
