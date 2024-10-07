@@ -137,7 +137,8 @@ Bei der Prozessbetrachtung wurden die beteiligten Organisationsrollen unterteilt
 ![image](https://github.com/user-attachments/assets/a182bc65-7a56-4aba-bfb5-741a5eacd887)   
 _Abbildung [Referenzprozess Leitungssatzentwicklung]_
 
-Jede LS-Komponente und jeder Prozessschritt wurde mit einbezogen und die dafür notwendigen Teilmodell-Typen wie folgt definiert.
+Jede LS-Komponente und jeder Prozessschritt wurde mit einbezogen und die dafür notwendigen Teilmodell-Typen wie folgt definiert:
+
 ![image](https://github.com/user-attachments/assets/9c88a7c1-8fab-419d-a65c-86e371def710)   
 _Abbildung [VWS-Typen und deren Stakeholder]_
 
@@ -176,7 +177,7 @@ Zusammenfassend wurde als Ergebnis von TP 4 festgestellt, dass für eine vollst�
 Das Ziel des [TP5 "Integration von Verwaltungsschalen (Verbundkomponente)"](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP05/) bestand darin, ausgehend vom Prinzip der Verbundkomponente der Plattform Industrie 4.0, Umsetzungskonzepte zu definieren, wie die Verwaltungsschale einer Teilkomponente, z.B. Steckverbinder, in die Verwaltungsschale des gesamten Leitungssatz einfließt, fokussierte sich auf Architekturfragen rund um die Verwaltungsschalen-Infrastruktur, um nach dem Konzept der Verbundkomponenten die beteiligten VWS zu Produkt und Produktionsmittel in einer vernetzten IT-Welt einander integrieren zu können. Hierfür notwendige Konzepte zu Versions- und Änderungsmanagement
 
 ![image](https://github.com/user-attachments/assets/7bc67abe-fcaf-4afa-9b50-446b22714605)   
-_Abbildung [Vernetzte Verwaltungsschalen]_
+_Abbildung [Vernetzte Verwaltungsschalen (Bild: Plattform Industrie 4.0)]_
 
 Die Ableitung und Definition der Verbundkomponente (VBK) „Produkt“, d.h. des Leitungssatzes. Der Anwendungsfall der virtuellen Inbetriebnahme (VIBN) von Produktionsmaschinen unter Einsatz der VWS wurde untersucht.
 
@@ -211,7 +212,10 @@ Mögliche Geschäftsmodelle wurden betrachtet, um festzustellen, wie eine Moneta
 [Detaildokumentation TP7](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP07/)
 
 ## <a name="TP08"></a>Anbindung an Catena-X: Lösungsansatz für die Verwaltungsschalen-basierte Zusammenarbeit im Datenraum
-Das [TP8 "Data Storage, Policy, Sicherheit, Anbindung an Catena-X"](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP08/) fokussierte sich auf die Entwicklung eines Lösungsansatzes zur interoperablen Nutzung von Daten über unterschiedliche Ablagestrukturen hinweg. Ziel ist die Grundlage zur gemeinsamen Nutzung der Daten in den unterschiedlichen Verwaltungsschalen durch eine sichere und verlässliche Infrastruktur über unternehmensspezifische Datenquellen hinweg.
+Das [TP8 "Data Storage, Policy, Sicherheit, Anbindung an Catena-X"](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP08/) fokussierte sich auf die Entwicklung eines Lösungsansatzes zur interoperablen Nutzung von Daten über unterschiedliche Ablagestrukturen hinweg. Ziel ist die Grundlage zur gemeinsamen Nutzung der Daten in den unterschiedlichen Verwaltungsschalen über unternehmensspezifische Datenquellen hinweg mittels des [Catena-X-Datenökosystems](https://catena-x.net/de/benefits) als sichere und verlässliche Infrastruktur.
+
+![image](https://github.com/user-attachments/assets/4c1652d9-9668-4001-97a1-79259ae4ea2d)   
+_Abbildung [Catena-X Lösungsportfolio (Quelle: https://catena-x.net/de/offers)]_
 
 [Detaildokumentation TP8](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP08/)
 
