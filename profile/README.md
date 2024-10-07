@@ -11,8 +11,8 @@ Eine detaillierte Beschreibung der Ergebnisse der verschiedenen Teilprojekte fin
 ## Motivation
 Der Leitungssatz (auch Kabelbaum oder Bordnetz genannt) ist eine der komplexesten und teuersten Einzelkomponenten im modernen Automobil. Durch die stetig steigende Anzahl an Sensoren, Funktionen und Variantenvielfalt wird die Komplexität des Bordnetzes zukünftig weiter ansteigen. Andererseits wird durch die stark manuell geprägte Produktion in „Best Cost Countries“ die Liefertreue und somit die Resilienz der gesamten Lieferkette gefährdet. Alle diese Faktoren weisen auf Verbesserungspotential durch Automatisierung und digitale Durchgängigkeit über die gesamte Wertkette hin und bieten damit einen konkreten Anwendungsfall für die Digitale Transformation der Automobil- und Fahrzeugindustrie.
 
-![image](https://github.com/user-attachments/assets/096319af-1f22-4b4c-941a-c422b5a7b120)
-_Abbildung [Der Leitungssatz im Fahrzeug]_
+![image](https://github.com/user-attachments/assets/a902b7b6-fa3c-4fea-a8ab-7d2bc655cfed)
+_Abbildung [Der Leitungssatz im Fahrzeug (Foto: Mercedes-Benz AG, www.bordnetze.eu)]_
 
 ## Projektentstehung
 Das Projekt "**Verwaltungsschale für den Leitungssatz**" ([VWS4LS](https://arena2036.de/de/vws4ls)) ist aus der "**Innovationsinitiative Leitungssatz**" ([IILS](https://arena2036.de/de/innovationsinitiative-leitungssatz)) hervorgegangen, als gefördertes Verbundvorhabens im Rahmen des Konjunkturpaketes 35c der Bundesregierung "**Zukunftsinvestitionen für Fahrzeughersteller und Zulieferindustrie**" ([Kopa 35c](https://www.bmwi.de/Redaktion/DE/Textsammlungen/Industrie/zukunftsinvestitionen-fahrzeughersteller-zulieferindustrie.html)).
@@ -102,7 +102,7 @@ Die notwendige Reduktion des „150%“-Engineeringmodells eines Leitungssatzes 
 
 Als weiteres wesentliches Ergebnis des TP1 wurde beschlossen, gemeinsam mit dem VDMA die OPC UA Companion Specification «OPC 40570: OPC UA for the Wire Harness Manufacturing Industry» zu erarbeiten, um damit einen einheitlichen Standard für die Kommunikation und Interaktion zwischen verschiedenen Systemen in der Leitungssatzindustrie zu schaffen.
 
-[Link zur Detaildokumentation TP1](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP01/)
+[Detaildokumentation TP1](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP01/)
 
 ## Dezentrale Datenhaltung für den Entwicklungsprozess
 Das [TP2](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP02/) "Entwicklungsprozesse des Leitungssatzes" fokussierte sich auf die Erfassung und Modellierung der komplexen und kollaborativen Entwicklungsprozesse sowie der dahinterstehenden Datenhaltungskonzepte. Bei der Entwicklung und Herstellung eines Leitungssatzes sind verschiedene Akteure in einem komplexen Prozess involviert. Der OEM als Fahrzeugentwickler und Auftraggeber für den Leitungssatz, der Konfektionär als Koordinator der Leitungssatzentwicklung sowie die unterschiedlichen Lieferanten-Abstufungen, die sog. „Tier“. Als Tier-1 werden typischerweise Systemlieferanten wie Hersteller von Steuergeräten oder eben auch Hersteller von Leitungssätzen bezeichnet. Tier-2 bezeichnet Lieferanten von einzelne Komponenten für das Gesamtsystem. Weitere Zulieferer von indirekten Gütern oder Ressourcen werden als Tier-3 bezeichnet. Zudem muss vor einem Einsatz von Komponenten deren Freigabe vom eigentlichen Auftraggeber (hier dem OEM) eingeholt und entsprechend dokumentiert werden. Diese Akteure verteilen sich dabei auf mehrere Unternehmen, die oft auch in verschiedenen Ländern ansässig sind. Darüber hinaus sind die Informationsflüsse zwischen den Akteuren situativ geprägt und lassen sich nicht allgemeingültig definieren, was Richtung und Reihenfolge anbelangt.
@@ -126,7 +126,7 @@ _Abbildung [VWS-Typen und deren Stakeholder]_
 
 Die resultierenden Anforderungen an die Prozess-Schritte in der Fertigung und die dort notwendigen automatischen Verhandlungsprozesse zwischen Produkt und Maschinen (Interaktion VWS – MES) wurden erfasst und in TP6 auf Basis von I4.0-Nachrichten definiert, um damit eine Automatisierung der Fertigungsabläufe umsetzen zu können.
 
-[Link zur Detaildokumentation TP2](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP02/)
+[Detaildokumentation TP2](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP02/)
 
 ## Tools zur Anwendung der VWS für die Produktionsprozesse
 Das [TP3](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP03/) "**Produktionsprozesse des Leitungssatzes**" fokussierte sich auf die systematische Erfassung, Gliederung und digitale Beschreibung der Produktionsprozesse und Produktionsmittel, sowohl als „Bill-of-Process“ (BoP) Submodell der VWS, als auch der Definition von Konzepten und Mechanismen zur dynamischen Prozessteuerung und zur Interaktion über einen Cloud Dataspace (IDS).
@@ -141,7 +141,7 @@ Darüberhinaus wurde ein Referenzbeispiel für das Mapping eines Fertigungsauftr
 ![image](https://github.com/user-attachments/assets/51536b0e-cfeb-48b0-9462-b91f82458245)
 _Abbildung [Referenzbeispiel "Bill of Process"]_
 
-[Link zur DetaildokumentationTP3](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP03/)
+[Detaildokumentation TP3](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP03/)
 
 ## Semantische Grundlagen für die Montage in der Karosserie
 Im [TP4](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP04/) "Montageprozesse des Leitungssatzes" wurden Möglichkeiten untersucht, die Montageprozesse beim OEM über Verwaltungsschalen als standardisierte Digitale Zwillinge abzubilden und zu automatisieren. Dazu wurden die einzelnen Teilprozesse der Montage eines Leitungssatzes in der Fahrzeugkarosserie analysiert, relevante Informationen abgeleitet und semantisch beschrieben, um diese in einem Teilmodell der Verwaltungsschale zu hinterlegen und für die Prozesse automatisiert abrufbar bereitzustellen.  Ein Konzept zur Übernahme von CAD-Daten und weiteren Parametern, die einen starken Einfluss auf eine spätere Automatisierung in der Wertschöpfungskette haben, wurde erstellt. Im speziellen wurden Gehäuse und Kontakte betrachtet.
@@ -153,7 +153,7 @@ Das angestrebte Ziel war, ein Daten-bezogene Voraussetzungen dafür zu schaffen,
 
 Zusammenfassend wurde als Ergebnis von TP 4 festgestellt, dass für eine vollständige automatisierte Montage des Leitungssatzes aus heutiger Sicht noch technische Hürden zu lösen sind. Die Losgröße 1 bei hoher Produktvielfalt und das komplexe Design der Karosserie erschweren eine automatisierte Montage erheblich. Eine Verbesserung könnte jedoch durch eine grundlegende Neugestaltung der Architektur des Leitungssatzes erfolgen, um eine einfachere und kosteneffizientere Automatisierung zu ermöglichen.
 
-[Link zur Detaildokumentation TP4](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP04/)
+[Detaildokumentation TP4](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP04/)
 
 ## Konzept zur Integration der Verwaltungsschalen entlang der Wertkette
 Das Ziel des [TP5](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP05/) "Integration der Verwaltungsschalen bestand darin, ausgehend vom Prinzip der Verbundkomponente der Plattform Industrie 4.0, Umsetzungskonzepte zu definieren, wie die Verwaltungsschale einer Teilkomponente, z.B. Steckverbinder, in die Verwaltungsschale des gesamten Leitungssatz einfließt, fokussierte sich auf Architekturfragen rund um die Verwaltungsschalen-Infrastruktur, um nach dem Konzept der Verbundkomponenten die beteiligten VWS zu Produkt und Produktionsmittel in einer vernetzten IT-Welt einander integrieren zu können. Hierfür notwendige Konzepte zu Versions- und Änderungsmanagement
@@ -169,7 +169,7 @@ Grundlage für die VBK sind dabei zunächst die relevanten Beziehungen zwischen 
 ![image](https://github.com/user-attachments/assets/033a1d8f-c818-4e1e-82ad-41fd60d82e9b)
 _Abbildung [Beziehungen zwischen den VWS]_
 
-[Link zur Detaildokumentation](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP05/)
+[Detaildokumentation TP5](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP05/)
 
 ## Konzept für automatisierte Verhandlungsprozesse auf Basis der Verwaltungsschalen von Produkt und Maschine
 Das [TP6](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP06/) "Automatisierte Verhandlungsprozesse" fokussierte sich auf die Entwicklung eines Konzepts, um eine Verhandlung zwischen verschiedenen Systemen zu ermöglichen (z.B. Maschine zu Maschine, Leitungssatz zu Maschine oder Leitstand (MES) zu Maschine). Diese Verhandlungen sollen autonom durch den jeweiligen Systemen zugehörige I4.0-Kompenten geführt werden, die anhand von Daten und Informationen Entscheidungen treffen.
@@ -182,7 +182,7 @@ In dem Konzept wurden Randbedingungen für das eigenständige Entscheiden defini
 ![image](https://github.com/user-attachments/assets/903e6e14-475e-426e-9d8e-85b18a235744)
 _Abbildung [Sequenzdiagramm Verhandlungsszenario]_
 
-[Link zur Detaildokumentation TP6](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP06/)
+[Detaildokumentation TP6](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP06/)
 
 ## Rollen und Rechte in der Verwaltungsschale: Leitfaden zur Interoperabilität unter Wahrung von IP und Vertraulichkeit
 Das [TP7](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP07/) "Data Business Policy, Data Governance, Monetarisierung" befasste sich mit Datenrichtlinien als Leitfaden und Orientierung für die Verwendung und den Umgang mit vertraulichen Daten der Stakeholder in der Wertschöpfungskette des Leitungssatzes. Zur Gewährleistung der kollaborativen Arbeit zwischen den Akteuren der Wertschöpfungskette durch den Austausch von Informationen und Diensten unter Verwendung des standardisierten Digitalen Zwillings (VWS) sind Rollen- und Rechtemanagementkonzepte erforderlich. In diesem TP wurden konzeptionelle Lösungsvorschläge für das Rollen- und Rechtemanagement im Bereich des Leitungssatz entwickelt, mit besonderem Schwerpunkt auf Zugangskontrollen zu Informationen und Diensten. Dabei war abzuwägen, ob ein attributbasierter oder ein rollenbasierter Zugangskontrollansatz zielführend ist.
@@ -192,12 +192,12 @@ _Abbildung [Security-Architektur]_
 
 Mögliche Geschäftsmodelle wurden betrachtet, um festzustellen, wie eine Monetarisierung basierend auf der VWS umgesetzt werden kann. Dabei wurden die wesentlichen Aspekte aus Sicht der Teilnehmer der LS-Wertschöpfungskette berücksichtigt.
 
-[Link zur Detaildokumentation TP7](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP07/)
+[Detaildokumentation TP7](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP07/)
 
 ## Anbindung an Catena-X: Lösungsansatz für die Verwaltungsschalen-basierte Zusammenarbeit im Datenraum
 Das [TP8](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP08/) "Data Storage, Policy, Sicherheit, Anbindung an Catena-X" fokussierte sich auf die Entwicklung eines Lösungsansatzes zur interoperablen Nutzung von Daten über unterschiedliche Ablagestrukturen hinweg. Ziel ist die Grundlage zur gemeinsamen Nutzung der Daten in den unterschiedlichen Verwaltungsschalen durch eine sichere und verlässliche Infrastruktur über unternehmensspezifische Datenquellen hinweg.
 
-[Link zur Detaildokumentation TP8](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP08/)
+[Detaildokumentation TP8](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP08/)
 
 ## Demonstrator zur Pilotierung und Erprobung
 Das [TP9](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP09/) "Pilotierung, Erprobung, Demonstrator" fokussierte sich der Konzeptionierung und Umsetzung eines Demonstrators in mehreren Ausbaustufen über die gesamte Projektlaufzeit hinweg. Der Demonstrator enthält dabei sowohl physische als auch digitale Anteile.
@@ -210,7 +210,7 @@ _Abbildung [IT-Architektur des Demonstrators]_
 
 [tractus-x-07.arena2036.de](https://tractus-x-07.arena2036.de/)
 
-[Link zur Detaildokumentation TP9](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP09/)
+[Detaildokumentation TP9](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP09/)
 
 # VWS4LS: Publikationen
 Folgende Publikationen erfolgten im Rahmen des Projekts VWS4LS:
