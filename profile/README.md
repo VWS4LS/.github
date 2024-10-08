@@ -34,7 +34,7 @@ _Abbildung [Der Leitungssatz im Fahrzeug (Foto: Mercedes-Benz AG, www.bordnetze.
 
 Das Projekt "**Verwaltungsschale für den Leitungssatz**" ([VWS4LS](https://arena2036.de/de/vws4ls)) ist aus der "**Innovationsinitiative Leitungssatz**" ([IILS](https://arena2036.de/de/innovationsinitiative-leitungssatz)) hervorgegangen, als gefördertes Verbundvorhabens im Rahmen des Konjunkturpaketes 35c der Bundesregierung "**Zukunftsinvestitionen für Fahrzeughersteller und Zulieferindustrie**" ([Kopa 35c](https://www.bmwi.de/Redaktion/DE/Textsammlungen/Industrie/zukunftsinvestitionen-fahrzeughersteller-zulieferindustrie.html)).
 
-Die Projektlaufzeit war von Dezember 2021 bis Dezember 2024 angesetzt, mit den hier aufgeführten Industriepartnern.
+Die Projektlaufzeit war von Dezember 2021 bis Ende November 2024 angesetzt, mit den hier aufgeführten Industriepartnern.
 
 ## Projektpartner
 ![image](https://github.com/user-attachments/assets/e5ec3a97-2130-4a49-a64d-dbc4d49ad079)
