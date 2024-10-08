@@ -41,13 +41,13 @@ Die Projektlaufzeit war von Dezember 2021 bis Dezember 2024 angesetzt, mit den h
 
 \- [Coroplast Fritz Müller GmbH & Co. KG](https://www.coroplast-group.com/de/wewire/)
 
-\- [DilT GmbH (Komax Holding AG](https://www.komaxgroup.com/de/products/harness-manufacturing))
+\- [DilT GmbH](https://www.diit.de/)
 
 \- [Lisa Dräxlmaier GmbH](https://www.draexlmaier.com/produkte/electrical-systems)
 
 \- [Festo SE & Co. KG](https://www.festo.com/de/de/)
 
-\- [TSK Prüfsysteme GmbH (Komax Holding AG)](https://www.komaxgroup.com/de/products/quality-tools)
+\- [Komax Testing Germany GmbH](https://www.komaxgroup.com/products/testing)
 
 \- [Kostal Kontaktsysteme GmbH](https://www.kostal-kontakt-systeme.com/de-de/)
 
