@@ -142,14 +142,14 @@ Jede LS-Komponente und jeder Prozessschritt wurde mit einbezogen und die dafür 
 ![image](https://github.com/user-attachments/assets/9c88a7c1-8fab-419d-a65c-86e371def710)   
 _Abbildung [VWS-Typen und deren Stakeholder]_
 
-Die resultierenden Anforderungen an die Prozess-Schritte in der Fertigung und die dort notwendigen automatischen Verhandlungsprozesse zwischen Produkt und Maschinen (Interaktion VWS – MES) wurden erfasst und in TP6 auf Basis von I4.0-Nachrichten definiert, um damit eine Automatisierung der Fertigungsabläufe umsetzen zu können.
+Die resultierenden Anforderungen an die Prozess-Schritte in der Fertigung und die dort notwendigen automatischen Verhandlungsprozesse zwischen Produkt und Maschinen (Interaktion VWS – MES) wurden erfasst und in [TP6](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP06/) auf Basis von I4.0-Nachrichten definiert, um damit eine Automatisierung der Fertigungsabläufe umsetzen zu können.
 
 [Detaildokumentation TP2](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP02/)
 
 ## <a name="TP03"></a>Tools zur Anwendung der VWS für die Produktionsprozesse
-Das [TP3 "Produktionsprozesse des Leitungssatzes"](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP03/) "**Produktionsprozesse des Leitungssatzes**" fokussierte sich auf die systematische Erfassung, Gliederung und digitale Beschreibung der Produktionsprozesse und Produktionsmittel, sowohl als „Bill-of-Process“ (BoP) Submodell der VWS, als auch der Definition von Konzepten und Mechanismen zur dynamischen Prozessteuerung und zur Interaktion über einen Cloud Dataspace (IDS).
+Das [TP3 "Produktionsprozesse des Leitungssatzes"](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP03/) fokussierte sich auf die systematische Erfassung, Gliederung und digitale Beschreibung der Produktionsprozesse und Produktionsmittel, sowohl als „Bill-of-Process“ (BoP) Submodell der VWS, als auch der Definition von Konzepten und Mechanismen zur dynamischen Prozessteuerung und zur Interaktion über einen Cloud Dataspace (IDS).
 
-Als ein wesentliches Ergebnis wurde die in TP1 definierte neue OPC UA Companion Specification „OPC 40570: OPC UA for the Wire Harness Manufacturing Industry“ in einem Demonstrator zur Anbindung proprietärer Produktionsmaschinen über die [Eclipse BaSyx Data Bridge](https://github.com/eclipse-basyx/basyx-databridge) verwendet.
+Als ein wesentliches Ergebnis wurde die in [TP1](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP01/) definierte neue OPC UA Companion Specification „OPC 40570: OPC UA for the Wire Harness Manufacturing Industry“ in einem Demonstrator zur Anbindung proprietärer Produktionsmaschinen über die [Eclipse BaSyx Data Bridge](https://github.com/eclipse-basyx/basyx-databridge) verwendet.
 
 ![image](https://github.com/user-attachments/assets/e00c0a19-3466-4ceb-b2f5-643e6d9a2b88)   
 _Abbildung [Produktionsprozesse]_
@@ -169,7 +169,7 @@ _Abbildung [Der Leitungssatz im Fahrzeug]_
 
 Das angestrebte Ziel war, ein Daten-bezogene Voraussetzungen dafür zu schaffen, um die Montage des Leitungssatzes im Fahrzeug möglichst vollständig mithilfe von Robotern zu automatisieren. Das bedeutet, dass alle Informationen zur Bahnplanung, Geometrie etc. semantisch beschrieben, digital bereitgestellt, abgerufen und bei Bedarf aktualisiert werden müssen. Als Startpunkt wurde die Anlieferung der Packtasche inklusive des Leitungssatzes an der Montagezelle beim OEM angenommen.
 
-Zusammenfassend wurde als Ergebnis von TP 4 festgestellt, dass für eine vollständige automatisierte Montage des Leitungssatzes aus heutiger Sicht noch technische Hürden zu lösen sind. Die Losgröße 1 bei hoher Produktvielfalt und das komplexe Design der Karosserie erschweren eine automatisierte Montage erheblich. Eine Verbesserung könnte jedoch durch eine grundlegende Neugestaltung der Architektur des Leitungssatzes erfolgen, um eine einfachere und kosteneffizientere Automatisierung zu ermöglichen.
+Zusammenfassend wurde als Ergebnis von TP4 festgestellt, dass für eine vollständige automatisierte Montage des Leitungssatzes aus heutiger Sicht noch technische Hürden zu lösen sind. Die Losgröße 1 bei hoher Produktvielfalt und das komplexe Design der Karosserie erschweren eine automatisierte Montage erheblich. Eine Verbesserung könnte jedoch durch eine grundlegende Neugestaltung der Architektur des Leitungssatzes erfolgen, um eine einfachere und kosteneffizientere Automatisierung zu ermöglichen.
 
 [Detaildokumentation TP4](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP04/)
 
@@ -235,9 +235,11 @@ Folgende Publikationen erfolgten im Rahmen des Projekts VWS4LS:
 
 Salinas Segura, A., Angos Mediavilla, M., Braun, L., Freund, M., Kosel, C., Rodriguez, M. (2024). “**A Process Model for Deriving Asset Administration Shells for Inter-company Collaboration – A Practical Approach**”; In: Yilmaz, M., Clarke, P., Riel, A., Messnarz, R., Greiner, C., Peisl, T. (eds) Systems, Software and Services Process Improvement. EuroSPI 2024. Communications in Computer and Information Science, vol 2180. Springer, Cham. <https://doi.org/10.1007/978-3-031-71142-8_16>
 
+Melanie Stolze, Alexander Belyaev, Christian Kosel, Christian Diedrich, Alfred Barnard, "**Realizing automated production planning via proactive AAS and Business Process Models**", 2024 29th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA), Padua, Italy, 2024.
+
 Melanie Stolze, Gustavo Cainelli, Christian Kosel, Alexander Belyaev, Christian Diedrich (2024); **Entwurf komplexer Automatisierungssysteme: Konzepte zur Realisierung proaktiver Verwaltungsschalen und deren Kommunikation;** In _EKA 2024 - Entwurf komplexer Automatisierungssysteme, 18. Fachtagung (Jumar, Ulrich et al.)_. [Link](http://dx.doi.org/10.25673/116045)
 
-Angos-Mediavilla, M.; Gorenzweig, M.; Pahnke, G.; Pomp, A.; Freund, M. and Meisen, T. (2024). **Advancing Industry 4.0: Integrating Data Governance into Asset Administration Shell for Enhanced Interoperability**. In _Proceedings of the 26th International Conference on Enterprise Information Systems - Volume 1: ICEIS_; ISBN 978-989-758-692-7; ISSN 2184-4992, SciTePress, pages 128-140. DOI: 10.5220/0012632900003690 [Link](https://www.scitepress.org/Link.aspx?doi=10.5220/0012632900003690) [PDF](https://arena2036depeterfroeschle.sharepoint.com/sites/IILS35c-ProjektVerwaltungsschale/Freigegebene%20Dokumente/TP_Uebergreifend/files/downloads/Projekte/VWS4LS/Ergebnisse/IntegratingDataGovernanceintoAASforEnhancedInteroperability.pdf)
+Angos-Mediavilla, M.; Gorenzweig, M.; Pahnke, G.; Pomp, A.; Freund, M. and Meisen, T. (2024). **Advancing Industry 4.0: Integrating Data Governance into Asset Administration Shell for Enhanced Interoperability**. In _Proceedings of the 26th International Conference on Enterprise Information Systems - Volume 1: ICEIS_; ISBN 978-989-758-692-7; ISSN 2184-4992, SciTePress, pages 128-140. DOI: 10.5220/0012632900003690 [Link](https://www.scitepress.org/Link.aspx?doi=10.5220/0012632900003690) [PDF](https://arena2036.de/files/downloads/Projekte/VWS4LS/Ergebnisse/IntegratingDataGovernanceintoAASforEnhancedInteroperability.pdf)
 
 Bernd Kärcher (2024), **VWS4LS: Datengetriebene Leitungssatzproduktion mit OPC UA**; Fachartikel VDMA. [Link](https://www.vdma.org/viewer/-/v2article/render/91564893)
 
