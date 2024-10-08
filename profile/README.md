@@ -71,31 +71,31 @@ Ziel von VWS4LS ist die prototypische Implementierung der Verwaltungsschale in E
 ## Durchführung
 Bestehende Standards, einschlägige [DIN-Normen](https://www.dinmedia.de/de/norm/din-72036/376689255), Vorarbeiten der Plattform Industrie 4.0, der IDTA sowie diverser verbundener Projekte wie bspw. „[Verwaltungsschale vernetzt](https://vwsvernetzt.de/)“ wurden als Grundlage herangezogen. Die Gestaltungsfelder im Bereich Verwaltungsschale, wie Architektur, Informations- und Fähigkeitsmodelle, Verhandlungsprozesse und kollaborative Datengovernance, wurden bearbeitet. Als wesentlicher erfolgskritischer Punkt wurde die Integration der etablierten Branchenstandards „[Kabelbaumliste](https://ecad-wiki.prostep.org/specifications/kbl/)“ (KBL, PSI-19 / VDA 4964) und „[Vehicle Electric Container](https://ecad-wiki.prostep.org/specifications/vec/v210/release-notes/)“ (VEC , PSI-21 / VDA 4968) in die Verwaltungsschale analysiert.
 
-Mit der IDTA wurden Teilmodelle zur Automatisierung der Leitungssatzproduktion standardisiert. Mit dem VDMA entstand eine OPC UA Companion Specification zur dynamischen Steuerung der Produktionsresourcen. Als Middleware wurde [BaSyx](https://eclipse.dev/basyx/) verwendet. Die Verwendung von Verwaltungsschalen in [Catena-X](https://catena-x.net/de/) wurde untersucht.
+Mit der IDTA wurden Teilmodelle zur Automatisierung der Leitungssatzproduktion standardisiert. Mit dem VDMA entstand eine OPC UA Companion Specification zur dynamischen Steuerung der Produktionsressourcen. Als Middleware wurde [BaSyx](https://eclipse.dev/basyx/) verwendet. Die Verwendung von Verwaltungsschalen in [Catena-X](https://catena-x.net/de/) wurde ebenfalls untersucht.
 
-Der projektbegleitende Transfer erfolgte u. a. auf der Hannover Messe, eigenen Veranstaltungen sowie Transformations-Hubs, insbesondere [Transfer-X](https://transfer-x.de/) und dem [Trafo-Hub Leitungssatz](https://www.leitungssatz-hub.de/).
+Der projektbegleitende Transfer erfolgte u. a. auf der Hannover Messe, eigenen Veranstaltungen sowie Transformations-Hubs; insbesondere [Transfer-X](https://transfer-x.de/) und dem [Trafo-Hub Leitungssatz](https://www.leitungssatz-hub.de/).
 
 ## Projektgliederung
-Das Projekt untergliederte sich nach drei wesentlichen Prozessschritten, fünf Querschnittsthemen und zwei übergreifenden Themen: Die Vertikalen-TPs 2,3,4 widmeten sich den wesentlichen Wertschöpfungsaktivitäten des Leitungssatzes (Entwicklungs-, Produktions- und Montageprozess). Die Verwaltungsschalen-spezifischen TPs 1,5,6,7,8 sind als fachliche Querschnittsprojekte definiert worden, die überwiegend die in den vertikalen TPs gewonnen Erkenntnisse in Lösungskonzepte überführen. TP 9 und 10 bilden übergreifende Arbeitsfelder ab, die eine TP-übergreifende Konsolidierung und Kohärenz bei der Demonstration und dem Transfer sicherstellen sollen. Detailinformationen zu den Inhalten und Ergebnissen der Teilprojekte finden sich unter „Ergebnisse“ in der jeweiligen Teilprojekt-Unterseite.
+Das Projekt untergliederte sich nach drei wesentlichen Prozessschritten, fünf Querschnittsthemen und zwei übergreifenden Themen: Die Vertikalen Teilprojekte (TPs) 2, 3 und 4 widmeten sich den wesentlichen Wertschöpfungsaktivitäten des Leitungssatzes (Entwicklungs-, Produktions- und Montageprozesse). Die Verwaltungsschalen-spezifischen TPs 1, 5, 6, 7 und 8 sind als fachliche Querschnittsprojekte definiert worden, die überwiegend die in den vertikalen TPs gewonnen Erkenntnisse in Lösungskonzepte überführen. TP 9 und 10 bilden übergreifende Arbeitsfelder ab, die eine TP-übergreifende Konsolidierung und Kohärenz bei der Demonstration und dem Transfer sicherstellen sollen. Detailinformationen zu den Inhalten und Ergebnissen der Teilprojekte finden sich unter „Ergebnisse“ in der jeweiligen Teilprojekt-Unterseite.
 
 ![image](https://github.com/user-attachments/assets/144bc586-477b-4e23-9ce0-783af3aa8737)   
 _Abbildung [Projektstruktur]_
 
-Die TPs orientieren ihre Inhalte dabei nicht nur am Scope des TPs selbst, sondern auch an den fünf Anwendungsfällen, die aus Sicht der Leitungssatz-Akteure besondere Herausforderungen, aber auch Potenziale für die Verwaltungsschale darstellen.
+Die TPs orientieren ihre Inhalte dabei nicht nur an den Zielen des TPs selbst, sondern auch an den fünf Anwendungsfällen, die aus Sicht der Leitungssatz-Akteure besondere Herausforderungen, aber auch Potenziale für die Verwaltungsschale darstellen.
 
 Die Rollen der verantwortlichen Teilprojektleiter wurden wahrgenommen von:
 ![image](https://github.com/user-attachments/assets/cb28ba76-865d-4c52-87c8-4db0e804cac2)
 _Abbildung [Teilprojektleiter]_
 
 # Ergebnisse
-Als wesentliche VWS4LS-Projektergebnisse im Bereich der Standardisierung sind die neuen Teilmodelle „[IDTA 02056-1-0 Data Retention Policies](https://github.com/admin-shell-io/submodel-templates/tree/main/published/Data%20Retention%20Policies/1/0)“, „IDTA 02031-1-0 Bill of Process“, sowie die OPC UA Companion Specification „OPC 40570: OPC UA for the Wire Harness Manufacturing Industry” entstanden. Im [VEC 2.1.0](https://ecad-wiki.prostep.org/specifications/vec/v210/release-notes/) wurden neue Features eingebracht.
+Als wesentliche VWS4LS-Projektergebnisse im Bereich der Standardisierung sind die neuen Teilmodelle „[IDTA 02056-1-0 Data Retention Policies](https://github.com/admin-shell-io/submodel-templates/tree/main/published/Data%20Retention%20Policies/1/0)“, „IDTA 02031-1-0 Bill of Process“, sowie die OPC UA Companion Specification „OPC 40570: OPC UA for the Wire Harness Manufacturing Industry” (aktuell im Review) entstanden. Im [VEC 2.1.0](https://ecad-wiki.prostep.org/specifications/vec/v210/release-notes/) wurden zudem neue Features eingebracht.
 
 ![image](https://github.com/user-attachments/assets/64ef139b-2e4c-4e8c-a1a7-f405f16cbd7d)   
 _Abbildung [Im Rahmen von VWS4LS erstellte neue Standards]_
 
 Projektbegleitende Veröffentlichungen, Präsentationen und Veranstaltungen sind über das Inhaltsverzeichnis auf dedizierten Unterseiten einsehbar.
 
-Im [VWS4LS-Github](https://github.com/VWS4LS) sind im Rahmen des Projekts erzeugte Softwareartefakte abgelegt, wie bspw. ein VWS4LS-Plugin für den AASX-Explorer.
+Auf der [VWS4LS](https://github.com/VWS4LS)-Organisation auf GitHub sind im Rahmen des Projekts erzeugte Softwareartefakte abgelegt, wie bspw. ein [VWS4LS-Plugin](https://github.com/VWS4LS/vws4ls-aaspe-plugin) für den [Eclipse AASX Package Explorer(&trade;)](https://github.com/eclipse-aaspe/package-explorer).
 
 ![image](https://github.com/user-attachments/assets/4ba1eff8-ddf9-4581-986f-78415f7b334a)   
 _Abbildung [AASX-Exporer Plugin-Actions]_
@@ -149,12 +149,12 @@ Die resultierenden Anforderungen an die Prozess-Schritte in der Fertigung und di
 ## <a name="TP03"></a>Tools zur Anwendung der VWS für die Produktionsprozesse
 Das [TP3 "Produktionsprozesse des Leitungssatzes"](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP03/) "**Produktionsprozesse des Leitungssatzes**" fokussierte sich auf die systematische Erfassung, Gliederung und digitale Beschreibung der Produktionsprozesse und Produktionsmittel, sowohl als „Bill-of-Process“ (BoP) Submodell der VWS, als auch der Definition von Konzepten und Mechanismen zur dynamischen Prozessteuerung und zur Interaktion über einen Cloud Dataspace (IDS).
 
-Als ein wesentliches Ergebnis wurde die in TP1 definierte neue OPC UA Companion Specification „OPC 40570: OPC UA for the Wire Harness Manufacturing Industry“ in einem Demonstrator zur Anbindung proprietärer Produktionsmaschinen über die Eclipse BaSyx Data Bridge verwendet.
+Als ein wesentliches Ergebnis wurde die in TP1 definierte neue OPC UA Companion Specification „OPC 40570: OPC UA for the Wire Harness Manufacturing Industry“ in einem Demonstrator zur Anbindung proprietärer Produktionsmaschinen über die [Eclipse BaSyx Data Bridge](https://github.com/eclipse-basyx/basyx-databridge) verwendet.
 
 ![image](https://github.com/user-attachments/assets/e00c0a19-3466-4ceb-b2f5-643e6d9a2b88)   
 _Abbildung [Produktionsprozesse]_
 
-Darüberhinaus wurde ein Referenzbeispiel für das Mapping eines Fertigungsauftrags in das Teilmodell "Bill of Process" erstellt.
+Darüber hinaus wurde ein Referenzbeispiel für das Mapping eines Fertigungsauftrags in das Teilmodell "Bill of Process" erstellt.
 
 ![image](https://github.com/user-attachments/assets/51536b0e-cfeb-48b0-9462-b91f82458245)   
 _Abbildung [Referenzbeispiel "Bill of Process"]_
