@@ -1,4 +1,4 @@
-# VWS4LS: Überblick
+# Verwaltungsschale für den Leitungssatz (VWS4LS)
 This repository hosts results from the research project [Asset Administration Shell for the Wiring Harness](https://arena2036.de/en/asset-administration-shell-for-wire-harness) (*VWS4LS*), funded by the German Federal Ministry of Education and Research.
 A detailed description of the results of the various subprojects can be found here ([German only](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/README.md)).
 
