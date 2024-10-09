@@ -238,7 +238,7 @@ _Abbildung [Übersicht Demonstrator]_
 
 
 ## <a name="TP10"></a>Transfer und Koordination
-Das [TP10 "Transfer und Koordination"](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP10/) umfasste alle Aktivitäten zur Sicherstellung des Transfers und der Koordination der Projektergebnisse. Im Fokus standen der kontinuierliche Basistransfer, die Entwicklung und Bereitstellung von allgemeinen und leitungssatzspezifischen Implementierungspaketen sowie die Ergebnisintegration und Koordination. Damit konnten die Ergebnisse des Projekts effektiv verbreitet und nachhaltig in den industriellen und öffentlichen Raum überführt werden. 
+Das [TP10 "Transfer und Koordination"](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP10/) umfasste alle Aktivitäten zur Sicherstellung des Transfers und der Koordination der Projektergebnisse. Im Fokus standen der kontinuierliche Basistransfer, die Entwicklung und Bereitstellung von allgemeinen und leitungssatzspezifischen Implementierungspaketen sowie die Ergebnisintegration und Koordination. Damit konnten die Ergebnisse des Projekts effektiv verbreitet und nachhaltig in den industriellen und öffentlichen Raum überführt werden. Zu VWS4LS und weiteren relevanten Begleitthemen (z.B. Catena-X) wurden über [Transfer-X](https://transfer-x.de/) hochwertige Lernmodule bereitgestellt:
 
 [<img src="https://github.com/user-attachments/assets/34cba2bf-8333-4e35-8539-329425873152">](https://ilias.fraunhofer.de/ilias.php?baseClass=ilrepositorygui&ref_id=29387)   
 _Abbildung [Transfer-X Lernmodule](https://ilias.fraunhofer.de/ilias.php?baseClass=ilrepositorygui&ref_id=29387)_  
@@ -247,7 +247,8 @@ _Abbildung [Transfer-X Lernmodule](https://ilias.fraunhofer.de/ilias.php?baseCla
 
 
 # Publikationen
-Folgende Publikationen erfolgten im Rahmen des Projekts VWS4LS:
+
+**Folgende Publikationen erfolgten im Rahmen des Projekts VWS4LS:**
 
 Salinas Segura, A., Angos Mediavilla, M., Braun, L., Freund, M., Kosel, C., Rodriguez, M. (2024). “**A Process Model for Deriving Asset Administration Shells for Inter-company Collaboration – A Practical Approach**”; In: Yilmaz, M., Clarke, P., Riel, A., Messnarz, R., Greiner, C., Peisl, T. (eds) Systems, Software and Services Process Improvement. EuroSPI 2024. Communications in Computer and Information Science, vol 2180. Springer, Cham. <https://doi.org/10.1007/978-3-031-71142-8_16>
 
@@ -264,7 +265,7 @@ Mario Angos Mediavilla, Michele Lagnese, André Pomp, Tobias Meisen (2023); **As
 Schnauffer, G., Görzig, D., Kosel, C., Diemer, J. (2022). **Asset Administration Shell for the Wiring Harness System**. In: _Kiefl, N., Wulle, F., Ackermann, C., Holder, D. (eds)_ In _Advances in Automotive Production Technology – Towards Software-Defined Manufacturing and Resilient Supply Chains_. SCAP 2022. ARENA2036. Springer, Cham. <https://doi.org/10.1007/978-3-031-27933-1_30> [Link](https://doi.org/10.1007/978-3-031-27933-1_30)
 
 # Veranstaltungen
-Folgende Veranstaltungen waren im Rahmen des Projekts VWS4LS relevant:
+**Folgende Veranstaltungen waren im Rahmen des Projekts VWS4LS relevant:**
 
 -   **15.-16. Oktober 2024** – VWS4LS-Abschlussveranstaltung
 -   **26. September 2024** – [Bordnetze Digital 2024](https://www.leitungssatz-hub.de/termine-veranstaltungen/bordnetze-digital-2024/)
