@@ -30,7 +30,8 @@ Eine detaillierte Beschreibung der Ergebnisse der verschiedenen Teilprojekte fin
 ## Überblick
 Der Leitungssatz (auch Kabelbaum oder Bordnetz genannt) ist eine der komplexesten und teuersten Einzelkomponenten im modernen Automobil. Durch die stetig steigende Anzahl an Sensoren, Funktionen und Variantenvielfalt wird die Komplexität des Bordnetzes zukünftig weiter ansteigen. Andererseits wird durch die stark manuell geprägte Produktion in „Best Cost Countries“ die Liefertreue und somit die Resilienz der gesamten Lieferkette gefährdet. Alle diese Faktoren weisen auf Verbesserungspotential durch Automatisierung und digitale Durchgängigkeit über die gesamte Wertkette hin und bieten damit einen konkreten Anwendungsfall für die Digitale Transformation der Automobil- und Fahrzeugindustrie.
 
-![image](https://github.com/user-attachments/assets/44eb5469-326b-4934-a04b-2540ee1db803)   
+![image](https://github.com/user-attachments/assets/33974f7f-5675-456b-9636-3886f0d75ce9)
+
 _Abbildung [Der Leitungssatz im Fahrzeug (Foto: Mercedes-Benz AG, www.bordnetze.eu)]_
 
 Das Projekt "**Verwaltungsschale für den Leitungssatz**" ([VWS4LS](https://arena2036.de/de/vws4ls)) ist aus der "**Innovationsinitiative Leitungssatz**" ([IILS](https://arena2036.de/de/innovationsinitiative-leitungssatz)) hervorgegangen, als gefördertes Verbundvorhabens im Rahmen des Konjunkturpaketes 35c der Bundesregierung "**Zukunftsinvestitionen für Fahrzeughersteller und Zulieferindustrie**" ([Kopa 35c](https://www.bmwi.de/Redaktion/DE/Textsammlungen/Industrie/zukunftsinvestitionen-fahrzeughersteller-zulieferindustrie.html)).
