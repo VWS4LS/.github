@@ -11,7 +11,7 @@ Ebenso die in der Projektdokumntation referenzierten Artefakte wie z.B. JSON- an
 * [TP7: Data Business Policy, Data Governance, Monetarisierung](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP07/README.md)
 * [TP8: Data Storage Policy, Sicherheit, Anbindung an Catena-X](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP08/README.md)
 * [TP9: Pilotierung, Erprobung, Demonstrator](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP09/README.md)
-* [TP10: Transfer und Koordination]([/TP10](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP10/README.md))
+* [TP10: Transfer und Koordination](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP10/README.md)
 * [Literaturverzeichnis](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/General/Literaturverzeichnis.md)
 * [Abkürzungsverzeichnis](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/General/Abkuerzungsverzeichnis.md)
 * [Autorenverzeichnis](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/General/Autoren.md)
