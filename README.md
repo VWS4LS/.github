@@ -1,6 +1,19 @@
-# VWS4LS
-Dieses Repository stellt die Ergebnis-Dokumentation zum Projekt VWS4LS bereit ([Gesamtbericht als PDF](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/VWS4LS_Abschlussbericht_Gesamtprojekt.pdf)). 
-Ebenso die in der Projektdokumntation referenzierten Artefakte wie z.B. JSON- and AASX-Dateien.
+# Verwaltungsschale für den Leitungssatz (VWS4LS)
+
+[Projektübersicht](https://github.com/VWS4LS/.github/blob/main/profile/README.md)
+
+## Liste der VWS4LS-Repositories:
+* [https://github.com/VWS4LS/vws4ls-subproject-results] (Ergebnisdokumentation)
+* [https://github.com/VWS4LS/vws4ls-submodel-templates] (Library of submodel templates implemented in C#)
+* [https://github.com/VWS4LS/vws4ls-bidding-process] (Java)
+* [https://github.com/VWS4LS/vws4ls-process-service] (Java)
+* [https://github.com/VWS4LS/vws4ls-data-validation] (Java)
+* [https://github.com/VWS4LS/vws4ls-capability-matching] (JavaScript)
+* [https://github.com/VWS4LS/vws4ls-opcua] (XSLT)
+* [https://github.com/VWS4LS/vws4ls-aaspe-plugin] (C#)
+
+[vws4ls-subproject-results](https://github.com/VWS4LS/vws4ls-subproject-results) stellt die Ergebnis-Dokumentation zum Projekt VWS4LS bereit ([Gesamtbericht als PDF](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/VWS4LS_Abschlussbericht_Gesamtprojekt.pdf)). 
+Ebenso die in der Projektdokumentation referenzierten Artefakte wie z.B. JSON- and AASX-Dateien.
 
 * [TP1: Konzept, Informationsmodelle und Produktbeschreibung](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP01/README.md)
 * [TP2: Entwicklungsprozesse des Leitungssatzes](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP02/README.md)
