@@ -1,6 +1,6 @@
 # Verwaltungsschale für den Leitungssatz (VWS4LS)
 
-[Projektübersicht](https://github.com/VWS4LS/.github/blob/main/profile/README.md)
+**[Projektübersicht](https://vws4ls.github.io/)**
 
 ## Liste der VWS4LS-Repositories:
 * [https://github.com/VWS4LS/vws4ls-subproject-results] (Ergebnisdokumentation)
