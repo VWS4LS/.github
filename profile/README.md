@@ -63,8 +63,8 @@ Die [Mercedes-Benz AG](https://group.mercedes-benz.com/de/) und [Siemens AG](htt
 ## Projektziel
 Ziel von VWS4LS ist die prototypische Implementierung der Verwaltungsschale in Entwicklung, Produktion und Montage des Leitungssatzes im Fahrzeug entlang von 5 wesentlichen Anwendungsfällen, die aus Sicht der Leitungssatz-Akteure besondere Herausforderungen, aber auch Potenziale für die Verwaltungsschale beinhalten.
 
+| ---------- | --- |
 | Use Case 1 | Kollaborative Entwicklung zwischen Original Equipment Manufacturer (OEM), Konfektionär, Komponentenlieferanten |
-| --- | --- |
 | Use Case 2 | Berücksichtigung der automatisierten Produktionsfähigkeit im Engineering |
 | Use Case 3 | Automatisierung des Änderungsmanagements entlang der gesamten Wertkette |
 | Use Case 4 | Automatisierung von flexiblen und modularen Produktionsabläufen |
