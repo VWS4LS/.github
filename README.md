@@ -2,6 +2,10 @@
 
 **[Projektübersicht](https://vws4ls.github.io/)**
 
+Die erstellten Gesamtberichte zum Projekt VWS4LS sind hier einsehbar:
+1. [Hauptprojekt als PDF (TP1-TP10)](https://VWS4LS.github.io/VWS4LS_Abschlussbericht_Gesamtprojekt.pdf)
+2. [Projektverlängerung als PDF (TP11-TP14)](https://vws4ls.github.io/VWS4LS_Abschlussbericht_Projektverlaengerung.pdf)
+
 ## Liste der VWS4LS-Repositories:
 * [https://github.com/VWS4LS/vws4ls-subproject-results] (Ergebnisdokumentation)
 * [https://github.com/VWS4LS/vws4ls-submodel-templates] (Library of submodel templates implemented in C#)
@@ -12,8 +16,7 @@
 * [https://github.com/VWS4LS/vws4ls-opcua] (XSLT)
 * [https://github.com/VWS4LS/vws4ls-aaspe-plugin] (C#)
 
-[vws4ls-subproject-results](https://github.com/VWS4LS/vws4ls-subproject-results) stellt die Ergebnis-Dokumentation zum Projekt VWS4LS bereit ([Gesamtbericht als PDF](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/VWS4LS_Abschlussbericht_Gesamtprojekt.pdf)). 
-Ebenso die in der Projektdokumentation referenzierten Artefakte wie z.B. JSON- and AASX-Dateien.
+[vws4ls-subproject-results](https://github.com/VWS4LS/vws4ls-subproject-results) stellt die detaillierte Ergebnis-Dokumentation zum Projekt VWS4LS bereit, inklusive die in der Projektdokumentation referenzierten Artefakte wie z.B. JSON- and AASX-Dateien:
 
 * [TP1: Konzept, Informationsmodelle und Produktbeschreibung](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP01/README.md)
 * [TP2: Entwicklungsprozesse des Leitungssatzes](https://github.com/VWS4LS/vws4ls-subproject-results/blob/main/TP02/README.md)
